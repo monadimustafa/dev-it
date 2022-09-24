@@ -1,0 +1,19 @@
+* {
+    margin: O;
+    padding: 0;
+}
+
+.mustaphacode {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    color: white;
+    text-align: center;
+}
+.drisscode {
+    background-color: rgb(14, 41, 197);
+    height: 200px;
+    width: 200px;
+    color: white;
+    text-align: center;
+}
